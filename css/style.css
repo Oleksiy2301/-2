@@ -93,7 +93,8 @@ address {
     color: #FFFFFF;
 }
 
-.btn:hover {
+.btn:hover,
+.btn:focus {
     background: #404BBF;
 }
 
@@ -120,7 +121,7 @@ address {
 .team {
     background-color: #F4F4FD;
 }
-.team-list {
+.team-list-item {
     background-color: #FFFFFF;
 }
 
@@ -134,7 +135,7 @@ address {
     text-transform: capitalize;
 }
 
-.team-list-mane {
+.team-list-name {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
