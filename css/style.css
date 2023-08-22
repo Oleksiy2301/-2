@@ -19,6 +19,7 @@ body {
     background: #E7E9FC;
 }
 
+/* nav-section */
 .logo {
     color: #4D5AE5;
     font-family: 'Raleway', sans-serif;
@@ -71,6 +72,7 @@ address {
     color: #404BBF;
 }
 
+/* main-section */
 .main {
     background: #2E2F42;
     color: #404bbf;
@@ -98,6 +100,7 @@ address {
     background: #404BBF;
 }
 
+/* second-section */
 .plan-list-item {
     background:  #FFF;
 }
@@ -118,6 +121,7 @@ address {
     letter-spacing: 0.32px;
 }
 
+/* third-section */
 .team {
     background-color: #F4F4FD;
 }
@@ -150,6 +154,8 @@ address {
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
+
+/* fourth-section */
 .portfolio-title {
     color: #2E2F42;
     font-size: 36px;
@@ -175,6 +181,7 @@ address {
     letter-spacing: 0.32px;
 }
 
+/* footer-section */
 .footer {
     background: #2e2f42;
 }
