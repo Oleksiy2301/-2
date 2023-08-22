@@ -27,7 +27,8 @@ button {
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: var(--cloud);
+    color: #434455;
+    background: #FFFFFF;
 }
 .page-header {
     background: var(--cornflower);
@@ -35,7 +36,7 @@ body {
 
 .logo {
     color: var(--navy-blue);
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
@@ -45,7 +46,7 @@ body {
 
 .span-logo {
     color: var(--iris);
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
@@ -80,8 +81,6 @@ body {
 }
 
 .main {
-    width: 1440px;
-    height: 600px;
     background: var(--navy-blue);
 
 }
@@ -172,13 +171,11 @@ body {
 
 .footer {
     background: var(--navy-blue);
-    width: 1440px;
-    height: 312px;
 }
 
 .footer-logo {
     color: var(--cloud);
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 21px; /* 116.667% */
