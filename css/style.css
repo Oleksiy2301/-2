@@ -67,7 +67,7 @@ address {
 }
 
 .address-link:hover,
-.menu-link:focus {
+.address-link:focus {
     color: #404BBF;
 }
 
@@ -178,7 +178,7 @@ address {
     background: #2e2f42;
 }
 
-.span-logo {
+.span-logo-footer {
     color: #f4f4fd;
     font-family: 'Raleway', sans-serif;
     font-size: 18px;
